@@ -1,0 +1,17 @@
+C:\Users\Kevin\Documents\VPN installer\VPN installer\obj\Debug\VPN installer.csproj.AssemblyReference.cache
+C:\Users\Kevin\Documents\VPN installer\VPN installer\obj\Debug\VPN installer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kevin\Documents\VPN installer\VPN installer\obj\Debug\vpn.exe.Form1.resources
+C:\Users\Kevin\Documents\VPN installer\VPN installer\obj\Debug\vpn.exe.Form2.resources
+C:\Users\Kevin\Documents\VPN installer\VPN installer\obj\Debug\vpn.exe.Form3.resources
+C:\Users\Kevin\Documents\VPN installer\VPN installer\obj\Debug\vpn.exe.Form4.resources
+C:\Users\Kevin\Documents\VPN installer\VPN installer\obj\Debug\vpn.exe.Form5.resources
+C:\Users\Kevin\Documents\VPN installer\VPN installer\obj\Debug\vpn.exe.Form6.resources
+C:\Users\Kevin\Documents\VPN installer\VPN installer\obj\Debug\vpn.exe.Form7.resources
+C:\Users\Kevin\Documents\VPN installer\VPN installer\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Kevin\Documents\VPN installer\VPN installer\obj\Debug\VPN installer.csproj.GenerateResource.cache
+C:\Users\Kevin\Documents\VPN installer\VPN installer\obj\Debug\VPN installer.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\VPN installer\VPN installer\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Kevin\Documents\VPN installer\VPN installer\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Kevin\Documents\VPN installer\VPN installer\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Kevin\Documents\VPN installer\VPN installer\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Kevin\Documents\VPN installer\VPN installer\bin\Debug\WindowsFormsApp1.pdb
